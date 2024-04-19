@@ -15,7 +15,7 @@ class Program {
 
         Console.WriteLine($"A soma dos números é {soma}");
 
-        Console.ReadKey();
+        Console.ReadKey();//oi
 
     }
 }
