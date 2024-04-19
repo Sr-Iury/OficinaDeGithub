@@ -1,0 +1,15 @@
+C:\Users\ducil\OneDrive\Documentos\PDS\Git-hub(teste)\bin\Debug\net6.0\Git-hub(teste).exe
+C:\Users\ducil\OneDrive\Documentos\PDS\Git-hub(teste)\bin\Debug\net6.0\Git-hub(teste).deps.json
+C:\Users\ducil\OneDrive\Documentos\PDS\Git-hub(teste)\bin\Debug\net6.0\Git-hub(teste).runtimeconfig.json
+C:\Users\ducil\OneDrive\Documentos\PDS\Git-hub(teste)\bin\Debug\net6.0\Git-hub(teste).dll
+C:\Users\ducil\OneDrive\Documentos\PDS\Git-hub(teste)\bin\Debug\net6.0\Git-hub(teste).pdb
+C:\Users\ducil\OneDrive\Documentos\PDS\Git-hub(teste)\obj\Debug\net6.0\Git-hub(teste).csproj.AssemblyReference.cache
+C:\Users\ducil\OneDrive\Documentos\PDS\Git-hub(teste)\obj\Debug\net6.0\Git-hub(teste).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducil\OneDrive\Documentos\PDS\Git-hub(teste)\obj\Debug\net6.0\Git-hub(teste).AssemblyInfoInputs.cache
+C:\Users\ducil\OneDrive\Documentos\PDS\Git-hub(teste)\obj\Debug\net6.0\Git-hub(teste).AssemblyInfo.cs
+C:\Users\ducil\OneDrive\Documentos\PDS\Git-hub(teste)\obj\Debug\net6.0\Git-hub(teste).csproj.CoreCompileInputs.cache
+C:\Users\ducil\OneDrive\Documentos\PDS\Git-hub(teste)\obj\Debug\net6.0\Git-hub(teste).dll
+C:\Users\ducil\OneDrive\Documentos\PDS\Git-hub(teste)\obj\Debug\net6.0\refint\Git-hub(teste).dll
+C:\Users\ducil\OneDrive\Documentos\PDS\Git-hub(teste)\obj\Debug\net6.0\Git-hub(teste).pdb
+C:\Users\ducil\OneDrive\Documentos\PDS\Git-hub(teste)\obj\Debug\net6.0\Git-hub(teste).genruntimeconfig.cache
+C:\Users\ducil\OneDrive\Documentos\PDS\Git-hub(teste)\obj\Debug\net6.0\ref\Git-hub(teste).dll
